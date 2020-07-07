@@ -9,3 +9,8 @@ Solving Log
 - [ ] Two-Pointer Technique
 - [ ] Introduction to 2D Array
 - [ ] Conclusion
+
+## Problems
+
+- [x] 1. TwoSum
+- [x] 7. ReverseInteger
