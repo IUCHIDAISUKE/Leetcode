@@ -14,3 +14,4 @@ Solving Log
 
 - [x] 1. TwoSum
 - [x] 7. ReverseInteger
+- [x] 9. PalindromeNumber
