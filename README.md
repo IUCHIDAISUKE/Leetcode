@@ -12,7 +12,9 @@ Solving Log
 
 ## Problems
 
-- [x] 1. TwoSum
-- [x] 7. ReverseInteger
-- [x] 9. PalindromeNumber
-- [x] 13. RomanToInteger
+- [x] 0001. [TwoSum](https://leetcode.com/problems/two-sum/)
+- [x] 0007. ReverseInteger
+- [x] 0009. PalindromeNumber
+- [x] 0013. RomanToInteger
+- [x] 0014. LongestCommonString
+- [x] 1342. NumberOfStepsToReduceANumberToZero
